@@ -26,7 +26,7 @@
 
 ### :link:・Dépendance
 
-- ModKit est une dépendence pour ce Plugin.
+- Lien vers ***Modkit & AAMenu*** **[Cliquez ici](https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/latest)**
 
 ### :speech_balloon:・Contact
 
