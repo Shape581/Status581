@@ -1,6 +1,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Status581/total)
 
-# :package:・Status581 V1.0.0
+# :package:・Status581
 
 ### :mag:・Information
 
@@ -14,8 +14,8 @@
 
 ### :toolbox:・Fonctionnalité
 
-- Permet d'annoncer l'ouverture de l'entreprise via le /o ou dans la catégorie métier dans le AAMenu
-- Permet d'annoncer la fermeture d'une entreprise via le /f ou dans la catégorie métier dans le AAMenu
+- Permet d'annoncer l'ouverture de l'entreprise via le "/o" ou "/ouverture"
+- Permet d'annoncer la fermeture d'une entreprise via le "/f" ou "/fermeture"
 
 ### :link:・Téléchargement
 
@@ -26,10 +26,8 @@
 
 ### :link:・Dépendance
 
-- Lien vers ***Modkit & AAMenu*** **[Cliquez ici](https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/latest)**
+- Aucune dépendence
 
 ### :speech_balloon:・Contact
 
 - *Vous pouvez me contacter en MP si besoin.*
-
-![Status581](https://github.com/user-attachments/assets/b474a9dd-f2c0-4801-8ca8-4fe48141d150)
